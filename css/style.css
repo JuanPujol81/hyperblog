@@ -1,11 +1,19 @@
-body {
-    text-align: center;
+
+html {
+    font-size: 62.5%;
+}
+
+.container_head {
+    width: 100%;
+    height: 60px;
+    display: inline;
+    border: 1px solid black;
 }
 
 h1 {
-    color: brown;
+    color: black;
 }
 
 h2 {
-    color: darkblue;
+    color: gray;
 }
