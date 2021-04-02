@@ -30,4 +30,6 @@ header h1 {
     width: 80%;
     margin: 0 auto;
     text-align: center;
+    font-size: 1.6rem;
+    font-family: 'Times New Roman', Times, serif;
 }
